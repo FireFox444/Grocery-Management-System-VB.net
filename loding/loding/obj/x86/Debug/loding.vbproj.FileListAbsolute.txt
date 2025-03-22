@@ -1,0 +1,32 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\bin\Debug\loding.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\bin\Debug\loding.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\bin\Debug\loding.xml
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\obj\x86\Debug\loding.login.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\obj\x86\Debug\loding.Resources.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\obj\x86\Debug\loding.vbproj.GenerateResource.Cache
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\obj\x86\Debug\loding.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\obj\x86\Debug\loding.xml
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\obj\x86\Debug\loding.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\bin\Debug\loding.exe.config
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\obj\x86\Debug\loding.Billing.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\bin\Debug\Groucery.mdf
+C:\Users\Dell\AppData\Local\Temporary Projects\loding\bin\Debug\Groucery_log.ldf
+E:\sem5\project\loding\loding\bin\Debug\loding.exe.config
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.exe
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.xml
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.pdb
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.Billing.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.items.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.lodiing.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.login.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.Resources.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.vbproj.GenerateResource.Cache
+E:\sem5\project\loding\loding\bin\Debug\Groucery.mdf
+E:\sem5\project\loding\loding\bin\Debug\Groucery_log.ldf
+E:\sem5\project\loding\loding\bin\Debug\loding.exe
+E:\sem5\project\loding\loding\bin\Debug\loding.pdb
+E:\sem5\project\loding\loding\bin\Debug\loding.xml
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.Purchas.resources
+E:\sem5\project\loding\loding\bin\Debug\Database1.mdf
+E:\sem5\project\loding\loding\bin\Debug\Database1_log.ldf
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.Report.resources

@@ -1,0 +1,40 @@
+E:\sem5\project\loding\loding\bin\Debug\Database1.mdf
+E:\sem5\project\loding\loding\bin\Debug\Database1_log.ldf
+E:\sem5\project\loding\loding\bin\Debug\Groucery.mdf
+E:\sem5\project\loding\loding\bin\Debug\Groucery_log.ldf
+E:\sem5\project\loding\loding\bin\Debug\loding.exe.config
+E:\sem5\project\loding\loding\bin\Debug\loding.exe
+E:\sem5\project\loding\loding\bin\Debug\loding.pdb
+E:\sem5\project\loding\loding\bin\Debug\loding.xml
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.Billing.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.items.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.lodiing.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.login.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.Resources.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.Purchas.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.Report.resources
+E:\sem5\project\loding\loding\obj\x86\Debug\GROCERY SHOP MANAGMENT SYSTEM.vbproj.GenerateResource.Cache
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.exe
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.xml
+E:\sem5\project\loding\loding\obj\x86\Debug\loding.pdb
+D:\ayush ty project grocerry\loding\loding\bin\Debug\Database1.mdf
+D:\ayush ty project grocerry\loding\loding\bin\Debug\Database1_log.ldf
+D:\ayush ty project grocerry\loding\loding\bin\Debug\Groucery.mdf
+D:\ayush ty project grocerry\loding\loding\bin\Debug\Groucery_log.ldf
+D:\ayush ty project grocerry\loding\loding\bin\Debug\loding.exe.config
+D:\ayush ty project grocerry\loding\loding\bin\Debug\loding.exe
+D:\ayush ty project grocerry\loding\loding\bin\Debug\loding.pdb
+D:\ayush ty project grocerry\loding\loding\bin\Debug\loding.xml
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\GROCERY SHOP MANAGMENT SYSTEM.vbproj.AssemblyReference.cache
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\loding.Billing.resources
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\loding.items.resources
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\loding.lodiing.resources
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\loding.login.resources
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\loding.Resources.resources
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\loding.Purchas.resources
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\loding.Report.resources
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\GROCERY SHOP MANAGMENT SYSTEM.vbproj.GenerateResource.cache
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\GROCERY SHOP MANAGMENT SYSTEM.vbproj.CoreCompileInputs.cache
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\loding.exe
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\loding.xml
+D:\ayush ty project grocerry\loding\loding\obj\x86\Debug\loding.pdb
